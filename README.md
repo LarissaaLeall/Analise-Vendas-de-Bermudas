@@ -4,7 +4,7 @@ O objetivo da empresa é aumentar a venda de bermudas.
 
 Separei em 4 passos, por etapas...
 
-Passo 1 - Trazer a base de dados do excel para o Python e observar o que tem nela.
+Passo 1 - Trazer a base de dados do Excel para o Python e observar o que tem nela.
 
 Passo 2 - Pegar um panorama geral sobre a base de dados. 
 Com isso, fiz o faturamento global da empresa.
