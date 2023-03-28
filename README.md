@@ -9,7 +9,7 @@ Passo 1 - Trazer a base de dados do Excel para o Python e observar o que tem nel
 Passo 2 - Pegar um panorama geral sobre a base de dados. 
 Com isso, fiz o faturamento global da empresa.
 
-Passo 3 - Começar sua análise Top -> Down. 
+Passo 3 - Começar uma análise Top -> Down. 
 Aqui fiz uma análise e percebi que talvez tenha uma empresa que esteja vendendo muito bem, com isso fiz o faturamento por loja.
 
 Após fazer o faturamento por loja, percebi que a loja Iguatemi Campinas está vendendo muito mais que as outras. 
